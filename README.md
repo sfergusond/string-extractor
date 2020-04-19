@@ -17,16 +17,13 @@ filename: the name of the file to extract from
 strings.py test.doc
 
 bjbj
-
 \# -\*- coding: utf-8 -\*-
-
 Created on Sun Feb 10 17:54:59 2019
-
 @author: sferg
 hello world!
 gdPl
-\[Content_Types].xml
-_rels/.rels
+\[Content_Types\].xml
+\_rels/.rels
 theme/theme/themeManager.xml
 sQ}#
 theme/theme/theme1.xml
